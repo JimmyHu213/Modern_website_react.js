@@ -111,6 +111,10 @@
   background: var(--black-gradient);
   box-shadow: var(--card-shadow);
 }
+.filter:hover {
+  filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg)
+    brightness(95%) contrast(80%);
+}
 
 .feedback-container .feedback-card:last-child {
   margin-right: 0px;
