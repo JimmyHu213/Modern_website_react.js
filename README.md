@@ -5,14 +5,14 @@ All assets are from https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?no
 
 <h1>Vite</h1>
 
-  Vite is a greate tool to deploy any front-end framework within seconds
+  Vite is a greate tool to deploy any front-end framework within seconds <br />
   Start it with ``npm create vite@latest``
 
 
 <h1>Tailwind</h1>
 
   Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding         styles and then writing them to a static CSS file.
-  It's fast, flexible, and reliable — with zero-runtime
+  It's fast, flexible, and reliable — with zero-runtime  <br />
   Start with `npm install -D tailwindcss postcss autoprefixer` 
 ``npx tailwindcss init``
 
