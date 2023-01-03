@@ -1,2 +1,3 @@
 # Modern_website_react.js
-This is a practice website using react.js and tailwind
+This is a modern business website built with react.js and tailwind
+
